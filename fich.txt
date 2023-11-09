@@ -2,6 +2,7 @@ coucou noemi !
 tout va bien ?
 <<<<<<< HEAD
 moi c'est eteib 
+moi c'est Eric 
 
 bonne journée 
 =======
