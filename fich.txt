@@ -1,5 +1,10 @@
 coucou noemi !
 tout va bien ?
+<<<<<<< HEAD
 moi c'est eteib 
 
 bonne journée 
+=======
+moi c'est eteib
+c'est moi Frank
+>>>>>>> 1002acf4a30937af829c1186fdcc4bc336d7f584
